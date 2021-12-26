@@ -1,2 +1,1 @@
-# markocbuck
-Marko vbuck 
+# Vbuck Generator
